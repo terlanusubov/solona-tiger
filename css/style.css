@@ -158,6 +158,7 @@ section{
 }
 .title h1{
     color:#fff;
+    text-align: center;
 }
 .team-item{
     display: flex;
