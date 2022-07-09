@@ -129,9 +129,10 @@ main{
     height: 90vh;
     text-align: center;
     background-image: url('../images/tiger.jpg');
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
     padding-top:250px;
+    background-repeat: no-repeat;
 }
 #banner h1{
     color:#fff;
