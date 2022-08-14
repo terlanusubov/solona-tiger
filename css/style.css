@@ -287,3 +287,7 @@ h1{
   #roadmap span{
     font-weight: bold;
   }
+  .partner-item{
+    display: flex;
+    justify-content: center;
+  }
